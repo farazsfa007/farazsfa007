@@ -1,92 +1,144 @@
-Hi 👋 My name is Syed Faraz Ahmad
-=================================
+<h1 align="center">Hi 👋, I'm Faraz</h1>
+<h3 align="center">MERN Stack Developer | React Developer | Backend Enthusiast</h3>
 
-Data Science And Web Development
---------------------------------
+---
 
-I Am Python and C++ Developer.
+## 👨‍💻 About Me
 
-* 🌍  I'm based in Lucknow, India
-* ✉️  You can contact me at [farazahmadsfa@gmail.com](mailto:farazahmadsfa@gmail.com)
-* 🧠  I'm learning Gen Ai & LLM Based Tech
-* 🤝  I'm open to collaborating on Interesting MERN Stack And AI Projects
-* ⚡  I'm a food lover and I love Mooching Around
+- 🚀 MERN Stack Developer with **8+ months experience**
+- 💻 Skilled in **React, Node.js, Express, MongoDB**
+- 🧠 Strong knowledge of **JavaScript, REST APIs, and Full Stack Development**
+- 🌱 Currently learning **Advanced Backend & System Design**
+- 🎯 Goal: Build scalable **full-stack applications**
 
-## 🚀 Tech Stack
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://github.com/farazsfa007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/syed-faraz-ahmad">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:farazahmadsfa@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🛠 Tech Stack
 
 ### Frontend
-<p align="left">
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-</a>
+<p>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-</a>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
-</a>
 </p>
 
 ### Backend
-<p align="left">
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-</a>
+<p>
 
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-</a>
 </p>
 
 ### Database
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-</a>
+<p>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-</a>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
 </p>
 
 ### Tools
-<p align="left">
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</a>
+<p>
 
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
-</a>
 </p>
 
+---
 
-### Socials
+# 📊 GitHub Stats
 
-<p align="left"> <a href="https://www.github.com/farazsfa007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/syed-faraz-ahmad-082095224/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SfaFaraz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="center">
 
-### Badges
+<img src="https://github-readme-stats.vercel.app/api?username=farazsfa007&show_icons=true&theme=tokyonight"/>
 
-<b>My GitHub Stats</b>
+</p>
 
-<a href="http://www.github.com/farazsfa007"><img src="https://github-readme-stats.vercel.app/api?username=farazsfa007&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="farazsfa007's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/farazsfa007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=farazsfa007&stroke=3382ed&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+# 🔥 GitHub Streak
 
-<a href="http://www.github.com/farazsfa007"><img src="https://activity-graph.herokuapp.com/graph?username=farazsfa007&bg_color=1c1917&color=3382ed&line=0891b2&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="center">
 
-<a href="https://github.com/farazsfa007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazsfa007&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farazsfa007&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Top Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazsfa007&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farazsfa007&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=farazsfa007&theme=algolia"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🛒 Nxt Trends Shopping Website
+React e-commerce platform with authentication, product filtering and search.
+
+🔗 https://faraznxtshop.ccbp.tech/
+
+---
+
+### 😂 Meme Generator
+Create memes using image URLs and custom text.
+
+🔗 https://memegenbyfaraz.ccbp.tech/
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=farazsfa007&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+⭐️ From **Faraz**
