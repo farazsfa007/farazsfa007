@@ -85,7 +85,7 @@
 
 ---
 
-# 📈 Top Languages
+# 📊 Top Languages
 
 <p align="center">
 
@@ -113,21 +113,31 @@
 
 </p>
 
----
 
+---
 # 🚀 Featured Projects
+
+### 📊 Github Profile Visualizer
+A web application that provides a **comprehensive visualization of GitHub profiles** with detailed repository analytics.
+
+🔹 Provided a **complete overview of GitHub profiles** with in-depth repository analysis.  
+🔹 Implemented **interactive charts and analytics dashboards** for better data visualization.  
+🔹 Used **React Router for navigation and Recharts for data visualization**.  
+🔹 Designed the UI using **Figma** to create a clean and responsive interface.  
+🔹 Integrated **GitHub APIs** to fetch user profiles, repository details, and analytics data.
+
+**Technologies Used:**  
+`HTML` `CSS` `JavaScript` `React JS` `Bootstrap` `Recharts` `Figma` `GitHub APIs`
+
+🔗 **Live Demo:** https://gitprofilevis.ccbp.tech  
+🔗 **Source Code:** https://github.com/farazsfa007/Github-Profile-Visualizer-sfa
+
+---
 
 ### 🛒 Nxt Trends Shopping Website
 React e-commerce platform with authentication, product filtering and search.
 
 🔗 https://faraznxtshop.ccbp.tech/
-
----
-
-### 😂 Meme Generator
-Create memes using image URLs and custom text.
-
-🔗 https://memegenbyfaraz.ccbp.tech/
 
 ---
 
